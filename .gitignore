@@ -1,0 +1,8 @@
+# Godot
+.godot/
+*.tmp
+export_presets.cfg
+
+# Blender mentések
+*.blend1
+*.blend2
